@@ -1,2 +1,8 @@
 # hello-world
-hello world repo
+
+Hi
+
+I love robots and unicorns.
+We're all AIs living in a simulation.
+
+A. 
